@@ -3,6 +3,7 @@
 We will be creating a Long-term recurrent convolutional network (LRCN) based system for our living environment to monitor the CCTV footage and detect non-suspicious activities like - eating, walking & suspicious activity like — fighting. 
 
 Methodology:
+
 •	Load suspicious activity in living environment recognition data.
 •	Pre-process the data.
 •	Build LRCN Model for Classification.
